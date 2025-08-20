@@ -10,6 +10,12 @@
   - [Sponge Cleaner (Junior Design Project)]</i>
 - <b> 🛠️ Hobby/Personal Projects</b>
   - [Two-Link Robotic Arm with ROS2]
+ 
+<h2>Certifications: </h2>
+  
+  - Machine Learning with Python IBM</i>
+  
+  - C for Everyone: C and C++ Specialization</i>
 
 <h2> 🤳 Connect with me:</h2>
 
