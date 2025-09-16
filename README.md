@@ -1,3 +1,5 @@
+<!--
+
 <h1>Hi, I'm Kaden! <br/>
 
 <h2>👨‍💻 Projects:</h2>
@@ -17,7 +19,7 @@
   
   - C for Everyone: C and C++ Specialization</i>
 
-
+-->
 
 
 <!--
